@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1609585222
-ModificationTime: 1647947848
+ModificationTime: 1647948897
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1438,7 +1438,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8132 38 16
+WinInfo: 38 38 16
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -10112,8 +10112,8 @@ GlyphClass: 1
 Flags: W
 LayerCount: 2
 Fore
-Refer: 342 567 N 1 0 0 1 15 0 3
-Refer: 349 729 N 1 0 0 1 63 0 2
+Refer: 342 567 N 1 0 0 1 0 0 3
+Refer: 349 729 N 1 0 0 1 48 0 2
 Validated: 1
 Substitution2: "'sups' Superscript lookup 23 subtable" j.superior
 Substitution2: "'ordn' Ordinals lookup 17 subtable" j.superior
@@ -50562,7 +50562,7 @@ SplineSet
  172.25 489 l 1,13,-1
  172.25 489 l 1,0,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" arrowupdn.case
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" arrowupdn.alt01 arrowupdn.alt01.case arrowupdn.alt02 arrowupdn.alt02.case arrowupdn.case
 EndChar
@@ -50586,7 +50586,7 @@ SplineSet
  196 229.400390625 l 1,8,-1
  196 229.400390625 l 1,0,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" uni2196.case
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2196.alt01 uni2196.alt01.case uni2196.alt02 uni2196.alt02.case uni2196.case
 EndChar
@@ -50610,7 +50610,7 @@ SplineSet
  176 64 l 1,8,-1
  114 126 l 1,0,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" uni2197.case
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2197.alt01 uni2197.alt01.case uni2197.alt02 uni2197.alt02.case uni2197.case
 EndChar
@@ -50634,7 +50634,7 @@ SplineSet
  276.5 145 l 1,8,-1
  276.5 145 l 1,0,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" uni2198.case
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2198.alt01 uni2198.alt01.case uni2198.alt02 uni2198.alt02.case uni2198.case
 EndChar
@@ -50658,7 +50658,7 @@ SplineSet
  114 64 l 1,8,-1
  196 472.400390625 l 1,0,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" uni2199.case
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2199.alt01 uni2199.alt01.case uni2199.alt02 uni2199.alt02.case uni2199.case
 EndChar
